@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/404109__deathscyp__damage-1.wav-c744e43ff2b0fe2d3fb13b0d98daaca7.sample"
+
+[deps]
+
+source_file="res://Assets/sound/404109__deathscyp__damage-1.wav"
+dest_files=[ "res://.import/404109__deathscyp__damage-1.wav-c744e43ff2b0fe2d3fb13b0d98daaca7.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
